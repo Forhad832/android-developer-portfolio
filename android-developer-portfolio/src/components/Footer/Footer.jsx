@@ -20,7 +20,7 @@ const Footer = () => {
 
 </footer>
 <aside className='text-center text-base-300'>
-    <p>Copyright © 2023 - All right reserved by ACME Industries Ltd</p>
+    <p>Copyright © 2023 - All right reserved by App Master !</p>
   </aside>
         </div>
       </div>

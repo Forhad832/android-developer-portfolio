@@ -9,7 +9,7 @@ const Hero = () => {
                     <div className='flex-1 text-base-300'>
                         <h1 className="text-5xl font-bold">App Master Forhad !</h1>
                         <p className="py-6">I am a programmer. Coding is my life .I love to do  Android app and  Desktop app Development. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa aperiam labore ducimus quibusdam voluptatum aspernatur dolor omnis facilis dignissimos quae.</p>
-                        <button className="btn btn-primary">Get Started</button>
+                        <button className="btn  btn-primary">Get Started</button>
                     </div>
                     <div className='flex-1 flex justify-end'>
                         <img src={app} className="max-w-sm  rounded-lg shadow-2xl" />
